@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Youtility", "Youtility\Youtility.csproj", "{3DCEE077-3126-4ABE-A59E-B9C2F9441DC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Youtility-RestAPI", "Youtility-RestAPI\Youtility-RestAPI.csproj", "{BE57DB63-491C-482B-B89F-02AF6A706E34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DCEE077-3126-4ABE-A59E-B9C2F9441DC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DCEE077-3126-4ABE-A59E-B9C2F9441DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DCEE077-3126-4ABE-A59E-B9C2F9441DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DCEE077-3126-4ABE-A59E-B9C2F9441DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE57DB63-491C-482B-B89F-02AF6A706E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE57DB63-491C-482B-B89F-02AF6A706E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE57DB63-491C-482B-B89F-02AF6A706E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE57DB63-491C-482B-B89F-02AF6A706E34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAB322AD-0633-4259-81A2-4902EA0AB904}
+	EndGlobalSection
+EndGlobal
